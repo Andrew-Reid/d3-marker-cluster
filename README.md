@@ -3,7 +3,7 @@
 This is intended to become a fully fledged marker/icon/circle clusterer for D3. In its current state it's a proof of concept,
 but I hope to quickly fill in additional functionality now that the primary goal of clustering is taken care of.
 
-<a href="https://bl.ocks.org/Andrew-Reid/df90c3219abeed2572b77f09fe4e131f" ><img src="https://github.com/Andrew-Reid/d3-cluster/blob/master/example.png"/></a>
+<a href="https://bl.ocks.org/Andrew-Reid/c75d6e1da033ca38706ddef7c776cecd" ><img src="https://github.com/Andrew-Reid/d3-cluster/blob/master/example.png"/></a>
 
 As d3-cluster is essentially a stripped down and modified d3-force, it shares the same dependencies.
 
