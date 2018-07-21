@@ -15,7 +15,7 @@ Creates a new cluster layout.
 
 Adds nodes to the cluster. 
 
-As with d3-force, nodes are positoined with `node.x`, `node.y`. These values must be provided as initial 
+As with d3-force, nodes are positioned with `node.x`, `node.y`. Unlike with d3-force, these values must be provided as initial 
 locations for the nodes. Currently the coordinates must be located at `node.x`, `node.y`, however I intend to add an accessor method 
 for different properties or functions. 
 
