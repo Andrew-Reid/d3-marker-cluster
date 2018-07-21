@@ -33,8 +33,9 @@ These act the same as with d3-force. Alpha decay is set to 0.04 by default as co
 
 ### cluster.clusterer(clusterer)
 
-Takes a `d3.clusterer()` which is a modified d3-force collide force. No name is provided as with d3-force forces. 
-The default value is `d3.clusterer().radius(function(d) { return d.r; })`
+Takes a `d3.clusterer()` which is a modified d3-force collide force. When providing a clusterer, no name is provided as with d3-force forces. The default value is `d3.clusterer().radius(function(d) { return d.r; })`.
+
+Only one clustering force can be applied unlike the multiple forces that can be applied to a d3-force layout.
 
 ## d3.clusterer()
 
