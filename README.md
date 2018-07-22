@@ -5,6 +5,8 @@ but I hope to quickly fill in additional functionality now that the primary goal
 
 <a href="https://bl.ocks.org/Andrew-Reid/c75d6e1da033ca38706ddef7c776cecd" ><img src="https://github.com/Andrew-Reid/d3-cluster/blob/master/example.png"/></a>
 
+<a href="https://bl.ocks.org/Andrew-Reid/21ff4b57267fa91dacc57ef1ccb7afb3" ><img src="https://github.com/Andrew-Reid/d3-cluster/blob/master/example2.png"/></a>
+
 As d3-cluster is essentially a stripped down and modified d3-force, it shares the same dependencies.
 
 ## d3.cluster()
