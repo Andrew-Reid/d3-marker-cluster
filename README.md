@@ -1,4 +1,4 @@
-# d3-cluster
+# d3-marker-cluster
 
 This is intended to become a fully fledged marker/icon/circle clusterer for D3. In its current state it's a proof of concept,
 but I hope to quickly fill in additional functionality now that the primary goal of clustering is taken care of.
